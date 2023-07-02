@@ -9,4 +9,4 @@
   <p align="center">
     My vision how design patterns can be implemented
     <br/>
-    <br/>
+    
