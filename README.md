@@ -7,6 +7,6 @@
   <h3 align="center">Design-Patterns</h3>
 
   <p align="center">
-    My vision how design patterns can be implemented
+    
     <br/>
     
